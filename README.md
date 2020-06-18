@@ -9,6 +9,14 @@
 # 體驗營
 
 # Happy Python Day
+```
+早上三小時:快速掌握python程式技術
+
+下午三小時:使用python程式解CTF搶其大賽
+[1]使用python解編碼與解碼問題
+[2]使用python解古典密碼破密問題
+[3](*時間充裕財才會教)使用python解PPC問題
+```
 # Happy Linux Day
 ```
 宗旨:熟悉linux作業系統及重要基礎指令[搶旗大賽基礎篇]
