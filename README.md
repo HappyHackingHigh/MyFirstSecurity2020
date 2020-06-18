@@ -11,12 +11,20 @@
 # Happy Python Day
 ```
 早上三小時:快速掌握python程式技術
-
+```
+```
+早上自主練習:
+[1]玩丞底下小小測驗:
+[2]完成下程式小測驗 
+[3]j完成底下難題測驗
+還有力氣嗎?
+```
+```
 下午三小時:使用python程式解CTF搶其大賽
 [1]使用python解編碼與解碼問題
 [2]使用python解古典密碼破密問題
 [3](*時間充裕才會教)使用python解PPC問題
-    pwntools技術
+    特別要掌握pwntools技術[PWN必備技術]
 ```
 # Happy Linux Day
 ```
