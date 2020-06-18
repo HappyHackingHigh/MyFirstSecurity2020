@@ -42,6 +42,15 @@ binwalk
 gcc
 g++
 
+strings
+size
+strip
+
+as -- GNU彙編器
+ld -- GNU連結程式
+ar
+nm -- 列出目的檔案的符號清單
+
 readelf
 objdump
 
@@ -49,5 +58,15 @@ gdb
 
 ltrace
 strace
+```
+```
+objcopy
+ldd
+gprof
+```
+```
+LINUX NEXT
+
+
 ```
 
