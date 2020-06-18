@@ -73,3 +73,18 @@ gdb實戰與案例分析
 進階實戰學習:完成底下網址的線上練習
 https://overthewire.org/wargames/bandit/
 ```
+# MyFirstSecurity summer camp
+```
+
+```
+# 破了許多關卡,解了許多大賽題目,接著呢??
+```
+請將你的佐證資料備妥,申請加入
+
+台灣好厲駭:高階資安培訓
+
+故事才開始....Security4yourlife
+```
+```
+2020年度審請即將展開,敬請期待.......
+```
