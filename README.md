@@ -15,7 +15,8 @@
 下午三小時:使用python程式解CTF搶其大賽
 [1]使用python解編碼與解碼問題
 [2]使用python解古典密碼破密問題
-[3](*時間充裕財才會教)使用python解PPC問題
+[3](*時間充裕才會教)使用python解PPC問題
+    pwntools技術
 ```
 # Happy Linux Day
 ```
