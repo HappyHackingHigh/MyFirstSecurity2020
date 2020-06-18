@@ -93,5 +93,14 @@ https://overthewire.org/wargames/bandit/
 故事才開始....Security4yourlife
 ```
 ```
-2020年度審請即將展開,敬請期待.......
+2020年度申請即將展開,敬請期待.......
+```
+```
+CTF培訓主題:
+[1]GHIDRA逆向分析實戰
+[2]Symbolic execution逆向分析實戰
+[3]angr|Z3 逆向分析實戰
+[4]heap exploitation
+.....族繁不及備載,請積極參加 
+.....限定版課程
 ```
