@@ -88,7 +88,14 @@ https://overthewire.org/wargames/bandit/
 ```
 # MyFirstSecurity summer camp
 ```
+北、中、南同步舉辦
+Crypto：
 
+Reverse：
+
+Web：
+
+Pwn：
 ```
 # 破了許多關卡,解了許多大賽題目,接著呢??
 ```
