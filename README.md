@@ -88,7 +88,8 @@ https://overthewire.org/wargames/bandit/
 ```
 # MyFirstSecurity summer camp
 ```
-北、中、南同步舉辦
+*北、中、南同步舉辦*
+
 Crypto：
 
 上午課程：
