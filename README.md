@@ -19,21 +19,42 @@
 ### 體驗營相關學習資源:CTF==Capture the flag搶旗大賽
 ```
 上課時間：2~3小時
+上課平台：上課前提供
 上課內容：
 [1]初體驗隱寫術
+隱寫術101:
+<1>STEG(必)
+<2>banana-boy-20(必)
 
 [2]資安倫理
 
 [3]網站安全
+<1>source code
+<2>Easy_Robots.txt
+<3>Robots.txt ===> 講解編碼與解碼(Base64、Hex to String)
 
 [4]編碼與解碼
+<1>講解什麼是編碼、解碼
+<2>ASCII編碼與解碼實戰
+<3>讓學生自己解剩下的四題
+
 
 [5]加密與解密
+<1>凱薩密碼
+<2>密碼棒
+如果有時間...
+進階：<3>維吉尼亞密碼
 
 [6]網路封包分析
+<1>網路概論::封包
+<2>Wireshark
+<3>Network101:
+   Internetwache-CTF-2016:Network Forensic(MUST)
+<4>Network101:
+   Special Agent User(MUST)
 
 如果還有時間... ...
-[7]Linux初體驗
+[7]Linux初體驗::Linux101
 
 ```
 # Happy Python Day
