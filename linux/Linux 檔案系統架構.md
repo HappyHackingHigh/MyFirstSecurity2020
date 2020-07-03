@@ -1,4 +1,4 @@
-[image](https://github.com/HappyHackingHigh/MyFirstSecurity2020/blob/master/linux/linux%E6%AA%94%E6%A1%88%E6%9E%B6%E6%A7%8B.png)
+![image](https://github.com/HappyHackingHigh/MyFirstSecurity2020/blob/master/linux/linux%E6%AA%94%E6%A1%88%E6%9E%B6%E6%A7%8B.png)
 #
 ```
 理論上所有的 Linux 發佈版本應該都要遵守檔案系統的標準（Filesystem Hierarchy Standard, FHS），但根據發佈版本不同或有差異，不過大致上檔案系統架構如下：
