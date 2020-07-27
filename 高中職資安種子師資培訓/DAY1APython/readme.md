@@ -2,7 +2,11 @@
 ```
 Google Colab
 ```
-
+### Girhub
+```
+2018年微軟豪砸75億美元收購GitHub
+https://www.bnext.com.tw/article/49384/microsoft-github-acquisition-official-deal
+```
 ```
 Github寫作:Markdown語法
 
