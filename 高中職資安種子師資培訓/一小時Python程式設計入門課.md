@@ -6,8 +6,15 @@
 =========================================
 為什麼要學Python?
 如何學Python?打造你的學習地圖!
-
 =========================================
+```
+# Python開發環境
+### Python開發環境(1)
+```
+使用Google Colab平台教導Python程式設計
+```
+### Python開發環境(2)Windows
+```
 Python開發環境@windwos
 下載python
 安裝Python2.7==>裝在D:\python2
@@ -24,7 +31,9 @@ Python開發環境@windwos
 [2]D:\python2\python.exe XXX.py
 或 D:\python3\python.exe XXX.py
 -------------------------------------------------------
-=========================================
+```
+### Python開發環境(3)Linux
+```
 Python開發環境@Ubuntu 16.04 LTS 64-bit
 
 [1]使用python interactive shell
@@ -36,10 +45,21 @@ python3==>進入python 3.6.X shell
 [2]使用gedit(或nano或vim)寫程式==>記得檔名要XXX.py
 python xxx.py
 python3 xxx.py
-
-=========================================
-Python程式設計{基礎課程}
-
+```
+# Python程式設計{基礎課程}
+```
+[1]輸入與輸出 
+[2]各種資料型態及其運算
+    數字型(numeric)資料型態及其運算
+    字串(string)資料型態及其運算
+    列表|串列(list)資料型態及其運算
+    辭典|字典(dic)資料型態及其運算
+[3]迴圈與選擇
+    迴圈::while | for loop  |沒有do-while  |range|break|continue
+    選擇:If |if-else| ..沒有switch
+[4]函數
+```
+```
 [1]輸入與輸出 USER INPUTS AND OUTPUTS:
 [1.1]輸入:input | Raw_input
 raw_input([prompt]) 函數從標準輸入讀取一個行，並返回一個字串（去掉結尾的分行符號）
@@ -82,12 +102,12 @@ print("The average of", number1, number2, number3,
 [1.2]輸出:print
 ------------------------------------------------
 [動手做]下列範例會產生何種結果
->>> q = 259
->>> p = 0.038
->>> print(q, p, p * q)
->>> print(q, p, p * q, sep=",")
->>> print(q, p, p * q, sep=" :-) ")
->>> print(str(q) + " " + str(p) + " " + str(p * q))
+q = 259
+p = 0.038
+print(q, p, p * q)
+print(q, p, p * q, sep=",")
+print(q, p, p * q, sep=" :-) ")
+print(str(q) + " " + str(p) + " " + str(p * q))
 ------------------------------------------------
 
 [1.3]格式化輸出Formatted Output
@@ -115,25 +135,9 @@ print("The average of", number1, number2, number3,
       %g	 %f和%e的簡寫
       %G	 %f 和 %E 的簡寫
       %p	 用十六進位數格式化變數的位址
-
-[1.4]運算子
-餘數運算子 (remainder|modulo)
-------------------------------------------------
-以秒表示的總時間長，取得分鐘數及剩餘的秒數。 
-------------------------------------------------
-#!/usr/bin/env python
-#coding=utf-8
-
-seconds = eval(input("Enter an integer for seconds: "))
-
-minutes = seconds // 60     # Find minutes in seconds
-remainingSeconds = seconds % 60   # Seconds remaining
-print(seconds, "seconds is", minutes,  
-  "minutes and", remainingSeconds, "seconds")
-------------------------------------------------
-
-[2]各種資料型態及其運算[1][2][3][4]...[X]
-
+```
+#[2]各種資料型態及其運算[1][2][3][4]...[X]
+```
 數字型(numeric)資料型態及其運算
 字串(string)資料型態及其運算
 列表|串列(list)資料型態及其運算
@@ -162,8 +166,25 @@ start = time.time()
 for i in range(9999999):
     r in z					#測試字典中是否包含某個元素
 print('dict,time used:', time.time()-start)
+```
+```
+餘數運算子 (remainder|modulo)
+------------------------------------------------
+以秒表示的總時間長，取得分鐘數及剩餘的秒數。 
+------------------------------------------------
+#!/usr/bin/env python
+#coding=utf-8
 
-[3]迴圈與選擇
+seconds = eval(input("Enter an integer for seconds: "))
+
+minutes = seconds // 60     # Find minutes in seconds
+remainingSeconds = seconds % 60   # Seconds remaining
+print(seconds, "seconds is", minutes,  
+  "minutes and", remainingSeconds, "seconds")
+------------------------------------------------
+```
+# [3]迴圈與選擇
+```
 迴圈::while | for loop  |沒有do-while  |range|break|continue
 -------------------------------------------------------
 選擇:If |if-else| ..沒有switch
@@ -256,11 +277,7 @@ for i in range(10,100):
     if b >= 1000 and b <= 10000 and 8 * i < 100 and 9 * i >= 100:
         print b,' = 800 * ', i, ' + 9 * ', i
 ------------------------------------------------------------------
-
-
-
 [3.3]while 迴圈
-
 -------------------------------------------------------
 #猜數字游戲_版本二:Python3
 #!/usr/bin/env python
@@ -520,8 +537,9 @@ print("兩個整數的最大公因數", n1,
     "and", n2, "is", gcd(n1, n2))
 -----------------------------
 
-
-[5]標準函式庫The Python Standard Library[1][2][3][4]5[6][7]
+```
+# [5]標準函式庫The Python Standard Library[1][2][3][4]5[6][7]
+```
 https://docs.python.org/2/library/index.html
 無須安裝,但要import
 
@@ -590,8 +608,9 @@ c = binascii.hexlify(a)
 print c
 print binascii.unhexlify(c)
 -------------------------------------
-
-[6]第三方模組[1][2][3][4]5[6][7]......[X]
+```
+# [6]第三方模組[1][2][3][4]5[6][7]......[X]
+```
 需要安裝,也要import
 
 PyPI - the Python Package Index
@@ -607,9 +626,9 @@ pycrypto
 pycrypto 2.6.1
 Cryptographic modules for Python.
 
-
-[7]各種類型檔案存取[1][2][3][4]5[6][7]
-
+```
+# [7]各種類型檔案存取[1][2][3][4]5[6][7]
+```
 =============================================
 【Python 練習範例98】
 從鍵盤輸入一個字串，將小寫字母全部轉換成大寫字母，
