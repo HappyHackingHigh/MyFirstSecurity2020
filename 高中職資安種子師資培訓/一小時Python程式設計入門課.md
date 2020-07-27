@@ -1,6 +1,6 @@
-一小時Python程式設計入門課
+# 一小時Python程式設計入門課
 
-http://120.114.62.89
+```
 
 龍大大
 =========================================
@@ -633,9 +633,9 @@ if __name__ == '__main__':
 if __name__ == '__main__' 如何正确理解?
 https://www.zhihu.com/question/49136398
 =============================================
-
-=============================================
-參考資料:
+```
+# 參考資料:
+```
 [1]Python Cookbook 3rd Edition Documentation
 http://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
 
@@ -645,6 +645,7 @@ https://www.python-course.eu/python3_modules_and_modular_programming.php
 [3]Python Documentation contents
 https://docs.python.org/3/contents.html
 https://docs.python.org/2/contents.html
+```
 
 [5]Python Essential Reference, 5th Edition
 https://forum.dabeaz.com/t/python-essential-reference-5th-edition/145
