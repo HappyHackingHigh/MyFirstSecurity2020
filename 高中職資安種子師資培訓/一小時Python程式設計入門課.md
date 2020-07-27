@@ -3,6 +3,7 @@
 ```
 龍大大
 https://github.com/MyDearGreatTeacher/Python
+https://github.com/HappyHackingHigh/HappyPythonDay
 =========================================
 為什麼要學Python?
 如何學Python?打造你的學習地圖!
