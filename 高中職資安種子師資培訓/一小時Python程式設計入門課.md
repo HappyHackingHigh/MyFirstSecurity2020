@@ -1,8 +1,8 @@
 # 一小時Python程式設計入門課
 
 ```
-
 龍大大
+https://github.com/MyDearGreatTeacher/Python
 =========================================
 為什麼要學Python?
 如何學Python?打造你的學習地圖!
