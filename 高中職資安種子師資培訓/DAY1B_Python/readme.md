@@ -4,12 +4,12 @@
 ```
 ### 課程內容
 ```
-Python開發環境
-Python基礎語法
-使用Python解編碼與解碼問題
-使用Python解密碼問題
+[1]Python開發環境
+[2]Python基礎語法
+[3]使用Python解編碼與解碼問題
+[4]使用Python解密碼問題
 ```
-# Python開發環境
+# [1]Python開發環境:Google Colab
 ```
 Google Colab的Python開發環境暨使用技術
 [1]登入 註冊與使用
@@ -42,4 +42,12 @@ https://wcc723.github.io/development/2019/11/23/ten-mins-learn-markdown/
 Markdown文件
 https://markdown.tw/
 ```
-
+# [2]Python基礎語法
+```
+https://github.com/MyDearGreatTeacher/Python
+https://github.com/HappyHackingHigh/HappyPythonDay
+```
+# [3]使用Python解編碼與解碼問題 [4]使用Python解密碼
+```
+https://github.com/HappyHackingHigh/HappyPythonDay
+```
