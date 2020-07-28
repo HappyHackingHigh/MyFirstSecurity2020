@@ -19,11 +19,13 @@ Google Colab的Python開發環境暨使用技術
 [4]儲存到你的GITHUB
 [5]下載程式(XX.py   XX.ipynb)到本地端
 
-[6]上傳程式保GOOGLE drive, 從Google drive 開啟xxx.ipynb
+[6]上傳程式到GOOGLE drive, 從Google drive 開啟xxx.ipynb
 
+[7]上傳檔案到colab
+[8]執行colab上的xxx.py程式
 
-[7]把整個別人分享的github  git clone到colab
-[8]載入你的google drive 到C
+[7]把整個別人分享的github  git clone到你的colab
+[8]載入你的google drive 到colab
 ```
 
 ### Github
