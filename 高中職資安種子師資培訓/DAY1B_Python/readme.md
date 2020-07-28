@@ -27,7 +27,34 @@ Google Colab的Python開發環境暨使用技術
 [9]把整個別人分享的github  git clone到你的colab
 [10]載入你的google drive 到colab
 ```
+### [9]把整個別人分享的github  git clone到你的colab
+```
+!git clone https://github.com/oreilly-japan/deep-learning-from-scratch.git
 
+cd deep-learning-from-scratch
+ls
+
+cd ch01
+
+!python hungry.py
+```
+
+```
+好書推薦
+
+Deep Learning｜用 Python 進行深度學習的基礎理論實作 Deep Learning ―Pythonで学ぶディープラーニングの理論と実装
+斎藤康毅 著、吳嘉芳 譯
+歐萊禮 2017-08-16
+https://github.com/oreilly-japan/deep-learning-from-scratch
+
+Deep Learning 2｜用 Python 進行自然語言處理的基礎理論實作
+斎藤康毅 吳嘉芳
+歐萊禮 2019-03-29
+```
+```
+Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow
+https://github.com/ageron/handson-ml2
+```
 ### Github
 ```
 2018年微軟豪砸75億美元收購GitHub
