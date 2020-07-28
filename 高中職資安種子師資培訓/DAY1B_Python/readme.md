@@ -1,6 +1,6 @@
-#
+# Python與CTF:使用Python解CTF題目
 ```
-搭配課程HappyPyyhonDay
+搭配課程HappyPythonDay
 ```
 ### 課程內容
 ```
