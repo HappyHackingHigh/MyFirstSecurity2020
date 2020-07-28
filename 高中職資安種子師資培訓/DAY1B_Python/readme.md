@@ -24,8 +24,8 @@ Google Colab的Python開發環境暨使用技術
 [7]上傳檔案到colab
 [8]執行colab上的xxx.py程式
 
-[7]把整個別人分享的github  git clone到你的colab
-[8]載入你的google drive 到colab
+[9]把整個別人分享的github  git clone到你的colab
+[10]載入你的google drive 到colab
 ```
 
 ### Github
