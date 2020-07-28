@@ -67,8 +67,30 @@ B.3. FTP 側錄實務
 B.4. Telnet 側錄實務
 B.5.網路攻擊封包分析:DDoS
 ```
+```
+NAPA證照: 網路安全封包分析認證課程
+Network Security of Packet Analysis Course
+https://www.uuu.com.tw/Course/Show/930/網路安全封包分析認證課程
+```
 
 # 3.3.Network-CTF實戰
 ```
 
+```
+# 3.4.網路攻擊模式分析與防禦
+```
+本課程模組提供網路攻擊分析與安全防禦的基本觀念:
+
+[1]網路攻擊模式分析
+      APT
+      Ransomeware
+      DDOS
+      社交工程
+       ....
+      NITRE ATT@CK Framewaork
+
+[2]網路資安防禦技術
+      防火牆
+      入侵偵測系統
+      ............
 ```
