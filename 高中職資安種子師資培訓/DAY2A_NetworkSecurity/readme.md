@@ -57,7 +57,11 @@ A.3. 網路標準與通訊協定
 B.1. Wireshark 封包側錄
 	 B.1.1.安裝Wireshark
 	 B.1.2.封包側錄
-B.2.測試情境與分析
+	 B.1.3.Wireshark基本技術
+	       Capture filter
+	       Display filter
+	       Follow TCP stream
+B.2.測試情境與分析:Connect2Google
 	B.2.1. Wireshark 封包分析Connect2Google
 	B.2.2. DNS查詢分析
 	B.2.3. TCP 三向交握分析
@@ -71,6 +75,15 @@ B.5.網路攻擊封包分析:DDoS
 NAPA證照: 網路安全封包分析認證課程
 Network Security of Packet Analysis Course
 https://www.uuu.com.tw/Course/Show/930/網路安全封包分析認證課程
+```
+```
+
+https://www.tenlong.com.tw/search?utf8=%E2%9C%93&keyword=wireshark
+
+網路分析完全實戰手冊 ─ 使用 Wireshark, 2/e 
+Network Analysis using Wireshark 2 Cookbook, 2/e
+Nagendra Kumar Nainar、Yogesh Ramdoss、Yoram Orzach
+孫餘強、王濤 博碩文化2019-06-17
 ```
 
 # 3.3.Network-CTF實戰
