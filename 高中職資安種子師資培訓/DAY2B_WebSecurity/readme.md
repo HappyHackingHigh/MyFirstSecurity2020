@@ -34,6 +34,10 @@ https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Methods
 ```
 https://httpbin.org/
 ```
+```
+HTTP header fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
+```
 ### HTTP 回應(HTTP Response)
 ```
 HTTP status codes HTTP狀態碼
