@@ -26,6 +26,15 @@ HTTP 協定(HTTP Protocol)
 HTTP 請求(HTTP Request)
 HTTP 回應(HTTP Response)
 ```
+### HTTP 請求(HTTP Request)
+```
+http method
+https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Methods
+```
+```
+https://httpbin.org/
+```
+### HTTP 回應(HTTP Response)
 ```
 HTTP status codes HTTP狀態碼
 1	1xx訊息 informational response – the request was received, continuing process
