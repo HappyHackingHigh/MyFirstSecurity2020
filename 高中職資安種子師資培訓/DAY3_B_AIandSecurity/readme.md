@@ -18,3 +18,10 @@ print("numpy version: %s" % np.__version__)
 import sklearn
 print("scikit-learn version: %s" % sklearn.__version__)
 ```
+```
+import numpy as np
+
+
+ar2=np.array([[0,3,5],[2,8,7]]) 
+ar2.shape
+```
