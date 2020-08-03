@@ -391,6 +391,13 @@ b = binascii.b2a_hex(a)
 print b
 print binascii.a2b_hex(b)
 ```
+```
+Python2 Online
+https://paiza.io/en/languages/python
+
+底下程式使用python 2解題
+請改成Python 3語法
+```
 
 ```
 #!/usr/bin/python
@@ -417,13 +424,13 @@ for _ in c.split(' '):
     flag += chr(int(_, 8))
   if len(_) > 4: #BIN
     flag += binascii.unhexlify('%x' % int(_,2))
-print(flag)
+print flag
 ```
-# 自主學習主題
+# 自主學習主題:底下教材提供給老師參考
 
 ## alexctf-2017: CR1: Ultracoded 50
 ```
-! wget https://raw.githubusercontent.com/ctfs/write-ups-2017/master/alexctf-2017/cryptography/cr1-ultracoded-50/zero_one
+!wget https://raw.githubusercontent.com/ctfs/write-ups-2017/master/alexctf-2017/cryptography/cr1-ultracoded-50/zero_one
 
 !pip install pwntools
 
@@ -460,7 +467,6 @@ I want you to decrypt this encrypted flag he gave me.
 附檔已整理在
 
 https://raw.githubusercontent.com/easyctf/easyctf-2017-problems/master/decode-me/encrypted_flag.txt
-
 ```
 ```
 !wget https://raw.githubusercontent.com/easyctf/easyctf-2017-problems/master/decode-me/encrypted_flag.txt
@@ -574,7 +580,7 @@ c = '0b1000010'
 flag = chr(int(c,2))
 flag
 ```
-# [僅供參考,請勿教學]參考底下程式,完成 Crypto 101:Morse code
+# [僅供參考]參考底下程式,完成 Crypto 101:Morse code
 ```
 Morse Code Translator In Python
 
