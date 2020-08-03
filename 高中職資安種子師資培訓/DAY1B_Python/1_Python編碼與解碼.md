@@ -1,11 +1,16 @@
 # Python實戰 CTF::使用Python編碼與解碼
 ```
-學習目標:
+學習目標1:基礎必教篇 ==Python 內建函數 與 標準函式庫的示範
 [1]使用Python程式與內建函數進行ASCII的編碼與解碼
 [2]使用Python標準函式庫(Base 64模組)進行BASE64的編碼與解碼
+
 [3](可不教)補充教材:數字系統( number system)的轉換
+
+學習目標2:進階競賽
 [4]Internetwache CTF 2016 : The hidden message
 [5]需要神的靈光閃爍==SECCON CTF 2014: Easy Cipher 
+
+其他參考資料
 ```
 # 編碼與解碼101
 
