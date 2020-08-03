@@ -3,9 +3,9 @@
 學習目標:
 [1]使用Python程式與內建函數進行ASCII的編碼與解碼
 [2]使用Python標準函式庫(Base 64模組)進行BASE64的編碼與解碼
-[3]
-[4]
-[5]
+[3](可不教)補充教材:數字系統( number system)的轉換
+[4]Internetwache CTF 2016 : The hidden message
+[5]需要神的靈光閃爍==SECCON CTF 2014: Easy Cipher 
 ```
 # 編碼與解碼101
 
