@@ -92,7 +92,7 @@ Internetwache-CTF-2016:Network Forensic
 PicoCTF_2017-Special Agent User
 ```
 ```
-HITCON 2017 CTF Data & Mining :strings | grep hitcon
+HITCON 2017 CTF Data & Mining :strings XXXXX | grep hitcon
 https://balsn.tw/ctf_writeup/20171104-hitconctfquals/
 ```
 # 3.4.網路攻擊模式分析與防禦
@@ -105,10 +105,60 @@ https://balsn.tw/ctf_writeup/20171104-hitconctfquals/
       DDOS
       社交工程
        ....
-      NITRE ATT@CK Framewaork
+      MITRE ATT@CK Framework
 
 [2]網路資安防禦技術
       防火牆
       入侵偵測系統
       ............
+```
+### 技服簡報
+```
+教材下載: https://www.nccst.nat.gov.tw/Handout?lang=zh
+政府組態基準(Government Configuration Baseline，簡稱GCB):
+https://www.nccst.nat.gov.tw/GCB
+
+資安職能:https://ctts.nccst.nat.gov.tw/
+https://ctts.nccst.nat.gov.tw/Download
+
+https://ctts.nccst.nat.gov.tw/Download
+```
+### MITRE ATT@CK Framework
+```
+用MITRE ATT&CK框架識別攻擊鏈，讓入侵手法描述有一致標準
+https://www.ithome.com.tw/article/129614
+
+由MITRE提出的ATT&CK資安框架，不僅是讓威脅入侵的描述具有更一致的標準，
+成為有助於理解攻擊者具備能力的知識庫，並能為攻防演練帶來幫助。
+而且，在去年(2018)的ATT＆CK評估計畫中，可進一步成為衡量安全產品的方式，
+目前已有9家業者端點安全產品參與。
+```
+
+### NIST Cybersecurity Framework（CSF）
+```
+https://www.nist.gov/cyberframework/framework
+https://s.itho.me/events/2019/cybersec101/0906_0910.pdf
+https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf
+```
+```
+美國 國家標準與技術研究所（NIST）提出的網路安全框架
+當今值得企業參考的資安架構
+針對Critical Infrastructure 的Cybersecurity風險評估共通標準，以風險為導向、持續運作的管理架構
+```
+```
+【NIST CSF導入關鍵】7步驟打造整體安全防護網，從盤點現況與成熟度評估著手
+https://www.ithome.com.tw/news/133172
+```
+```
+【資安框架】NIST CSF 1.1：英美各國政府和一般企業都相繼採用的網路安全框架
+https://www.ithome.com.tw/article/129614
+
+為了強化關鍵基礎設施的資訊安全，美國政府制訂的網路安全框架（Cybersecurity Framework，CSF），
+其內容涵蓋一般網路環境中，需要執行資安防護的面向，
+雖然推出才5年，如今，不只美國聯邦政府自己廣泛應用，英國、義大利、以色列、日本等國的公部門與企業，
+也導入了這個框架，管控網路環境的資訊安全。
+
+這個網路安全框架的起源，來自於美國前總統歐巴馬2013年2月時，所發布的第13636號行政命令（EO），
+為了改善關鍵基礎設施的網路安全，下令國家標準暨技術研究院（NIST）根據現有的標準與指南，
+訂立一套可供相關單位採用的資安框架，能夠藉此強化網路安全。
 ```
