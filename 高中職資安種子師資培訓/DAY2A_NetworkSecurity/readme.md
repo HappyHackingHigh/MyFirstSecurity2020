@@ -38,9 +38,12 @@ A.3. 網路標準與通訊協定
    A.3.1.通訊協定與標準
    A.3.2. OSI通訊標準
    A.3.3. TCP/IP協定
+   
    A.3.4. 傳輸層重要協定:TCP vs UDP
         A.3.4.1 TCP vs UDP
-        A.3.4.2 TCP的三向交握
+	A.3.4.2 TCP/UDP埠列表:https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+        A.3.4.3 TCP的三向交握
+	
    A.3.5. IP與DNS(網域名稱)
         A.3.5.1. IP協定與IP位址
         A.3.5.2. DNS
