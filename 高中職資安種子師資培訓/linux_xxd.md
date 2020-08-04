@@ -1,6 +1,9 @@
 # linux xxd
 ```
  xxd -h
+ xxd --h
+ xxd -help
+ xxd -help
 ```
 ## Usage:
 ```
