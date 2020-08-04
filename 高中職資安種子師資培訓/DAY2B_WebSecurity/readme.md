@@ -18,8 +18,8 @@
 
 網站基本組成
 網站伺服器(web server)
-伺服器端程式(Client-side Programming)
-客戶端程式(server-side Programming)
+伺服器端程式(Client-side Programming):HTML CSS3 JAVASCRIPT
+客戶端程式(server-side Programming)  PHP  ASP.NET
 
 HTTP 超文本傳輸協定 HyperText Transfer Protocol
 HTTP 協定(HTTP Protocol)
@@ -28,8 +28,31 @@ HTTP 回應(HTTP Response)
 ```
 ### HTTP 請求(HTTP Request)
 ```
+HTTP 0.9 這個版本只有GET方法
+HTTP 1.0 這個版本有GET HEAD POST這三個方法
+HTTP 1.1 這個版本是當前版本，包含GET HEAD POST OPTIONS PUT DELETE TRACE CONNECT這8個方法
+
+HTTP/2
+```
+```
 http method
 https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Methods
+
+
+[1]GET 方法請求展示指定資源。使用 GET 的請求只應用於取得資料。
+[2]HEAD 方法請求與 GET 方法相同的回應，但它沒有回應主體（response body）。
+[3]POST 方法用於提交指定資源的實體，通常會改變伺服器的狀態或副作用（side effect）。
+[4]PUT 方法會取代指定資源所酬載請求（request payload）的所有表現。
+
+[5]DELETE 方法會刪除指定資源.
+
+[6]CONNECT 方法會和指定資源標明的伺服器之間，建立隧道（tunnel）。
+
+[7]OPTIONS 方法描述指定資源的溝通方法（communication option）。
+
+TRACE 方法會與指定資源標明的伺服器之間，執行迴路返回測試（loop-back test）。
+PATCH
+PATCH 方法套用指定資源的部份修改。
 ```
 ```
 https://httpbin.org/
@@ -41,11 +64,11 @@ https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
 ### HTTP 回應(HTTP Response)
 ```
 HTTP status codes HTTP狀態碼
-1	1xx訊息 informational response – the request was received, continuing process
-2	2xx成功 successful – the request was successfully received, understood, and accepted
-3	3xx重新導向 redirection – further action needs to be taken in order to complete the request
-4	4xx客戶端錯誤 client error – the request contains bad syntax or cannot be fulfilled
-5	5xx伺服器錯誤 server error – the server failed to fulfil an apparently valid request 
+1xx訊息 informational response – the request was received, continuing process
+2xx成功 successful – the request was successfully received, understood, and accepted
+3xx重新導向 redirection – further action needs to be taken in order to complete the request
+4xx客戶端錯誤 client error – the request contains bad syntax or cannot be fulfilled
+5xx伺服器錯誤 server error – the server failed to fulfil an apparently valid request 
 ```
 ```
 進階主題: HTTPS
