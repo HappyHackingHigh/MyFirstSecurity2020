@@ -101,6 +101,8 @@ LFI
 DVWA SQLi 
 
 https://www.itread01.com/content/1549974072.html
+https://www.qa-knowhow.com/?p=5299
+https://www.cnblogs.com/jojo-feed/p/10173241.html
 ```
 ```
 
